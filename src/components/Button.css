@@ -1,0 +1,9 @@
+.button {
+    background-color: whitesmoke;
+    padding: 1em 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    cursor: pointer;
+}
